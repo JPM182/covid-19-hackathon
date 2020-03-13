@@ -22,6 +22,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 9. Understand and find out more infos about the risk to pregnant women.
 
+10. Proposed by Jean-Philippe Monfet on March 12: Develop an application that tracks smartphone location and use this to inform persons that crossed the path of infected persons to invite these persons to voluntarely put themselves in voluntary quarantaine
 
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)
